@@ -1,0 +1,43 @@
+.feedback-panel {
+    margin-top: 16px;
+    padding: 16px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+  }
+  
+  .feedback-panel h3 {
+    margin-bottom: 8px;
+  }
+  
+  .feedback-panel button {
+    font-size: 16px;
+    color: #ffc107;
+    background: none;
+  }
+  
+  .feedback-panel button.active {
+    color: #ffca2c;
+  }
+  
+  .feedback-panel textarea {
+    margin-top: 8px;
+    resize: none;
+    height: 80px;
+  }
+  
+  .feedback-panel button:hover {
+    background-color: #ffefc5;
+  }
+  
+  .feedback-panel button:last-child {
+    margin-top: 12px;
+    background-color: #007bff;
+    color: #fff;
+  }
+  
+  .feedback-panel button:last-child:hover {
+    background-color: #0056b3;
+  }
+
+  

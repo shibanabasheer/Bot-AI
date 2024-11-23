@@ -1,0 +1,27 @@
+.feedback-summary {
+    margin-top: 16px;
+    padding: 16px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+  }
+  
+  .feedback-summary h3 {
+    margin-bottom: 8px;
+  }
+  
+  .feedback-summary table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .feedback-summary th,
+  .feedback-summary td {
+    border: 1px solid #ccc;
+    padding: 8px;
+  }
+  
+  .feedback-summary th {
+    background-color: #f8f9fa;
+  }
+  
